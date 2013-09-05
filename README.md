@@ -2,6 +2,10 @@
 
 ##A wearable gesture interface
 
+
+THIS IS AN EXAMPLE
+------
+
 README
 ------
 
